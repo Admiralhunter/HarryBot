@@ -520,7 +520,7 @@ async def stock(symbol: str):
 
 @bot.command()
 async def league(summonername : str):
-    watcher = RiotWatcher('RGAPI-51105c82-c008-470e-83ad-1323d468776c')
+    watcher = RiotWatcher('League Of Legends API required')
     my_region = 'na1'
 
     try:

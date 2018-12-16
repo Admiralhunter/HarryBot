@@ -641,4 +641,4 @@ functions.remove('sqlite3')
 functions.remove('sys')
 functions.remove('time')
 
-bot.run('NDE5OTk0NjQwMTA0ODE2NjQx.DX4OiQ.4STrXMMf3PyoM6nzIaNjNpEZvlA')
+bot.run('DISCORD API REQUIRED')

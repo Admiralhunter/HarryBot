@@ -1,0 +1,8 @@
+discord
+
+coinmarketcap
+
+pinance
+
+riotwatcher
+
